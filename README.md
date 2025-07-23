@@ -1,16 +1,21 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=반가워요%20!&fontSize=90" />
 
-  <h3>벡엔드 개발자 김형섭입니다</h3>
-  <span>끊임없는 배움과 도전을 즐기며, 더 나은 코드를 적기 위해 공부중입니다!</span><br><br>
-  <span>최근에는 <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>CI/CD</strong> 개발에 집중하고 있어요!</span><br><br>
-  
-  <ul style="list-style: none; padding: 0; text-align: center;">
-    <li> 명확한 구조와 의도를 갖는 코드 작성을 선호합니다</li>
-    <li> ERD, 기초 환경 설정 등 기반이 되는 작업을 중요하게 생각합니다</li>
-  </ul>
-  
+  <h3>👋 백엔드 개발자 <strong>김형섭</strong>입니다</h3>
+  <p>끊임없는 배움과 도전을 즐기며<br>
+  더 나은 코드를 작성하기 위해 성장 중입니다!</p>
+
+  <p>🛠️ 최근에는 <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>CI/CD</strong> 개발에 집중하고 있어요!</p>
+
+  <hr style="width: 60%; border: 0; border-top: 1px solid #ccc; margin: 30px 0;" />
+
+  <div align="center" style="max-width: 600px;">
+    <p>✅ 명확한 구조와 의도를 갖는 <strong>클린 코드</strong>를 선호합니다</p>
+    <p>🗂️ ERD 설계와 초기 환경 세팅 같은 <strong>기반 작업</strong>을 중요하게 생각합니다</p>
+    <p>🌐 <strong>풀스택 개발자</strong>를 목표로 프론트엔드도 함께 공부하고 있습니다</p>
+  </div>
 </div>
+
 
 
 ---
