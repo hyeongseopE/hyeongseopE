@@ -44,7 +44,7 @@
 ## 🏆 solved.ac 티어
 
 <div align="center">
-  <a href="https://solved.ac/hyeongseop" target="_blank">
+  <a href="https://solved.ac/profile/hyeongseop" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hyeongseop" alt="solved.ac tier" />
   </a>
 </div>
